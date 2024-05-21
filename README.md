@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkushAtCryptoSkool
-- 👀 I’m interested in Solidity , Blockchain Dapp Development
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on any crypto related projects
+- 👀 I’m interested in Solidity , Blockchain Dapp Development, SpringBoot, Java
+- 🌱 I’m currently learning Solidity, SpringBoot Java
+- 💞️ I’m looking to collaborate on any related projects
 - 📫 How to reach me ... via telegram @Ankush9354 or twitter @crypto_skool
 
 <!---
